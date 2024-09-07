@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Grechelle <></h2>
+<h2 align="left">Hi! My name is Grechelle Boneo <></h2>
 
 ###
 
@@ -86,6 +86,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/matchellatte/matchellatte/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/matchellatte/output/main/dist/snake.svg" alt="Snake animation" />
 
 ###

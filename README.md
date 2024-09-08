@@ -1,4 +1,4 @@
-<h2 align="left">Hey there! I'm Grechelle Boneo 🦋</h2>
+<h2 align="left">Hey there! I'm Grechelle Boneo 🐇 </h2>
 
 ###
 

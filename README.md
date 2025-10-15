@@ -2,7 +2,6 @@
 
 ###
 
-<p align="left">Visit my portfolio at https://www.grechelleab.site/ </p>
 <p align="left">You can call me chelle! My username, <code>matchellatte</code>, is a tribute to my obsession with matcha lattes. If you see me coding away, chances are I'm sipping on a green magic potion! 🌿💚</p>
 
 ###

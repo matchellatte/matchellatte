@@ -1,6 +1,4 @@
-<h2 align="left">Hey there! I'm 'Greyshel' </h2>
-
-<h2 align="left">Visit my website portfolio at www.grechelleab.site </h2>
+<h2 align="left">Hey there! I'm 'Greyshel', Visit my website portfolio at www.grechelleab.site  </h2>
 
 ###
 

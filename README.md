@@ -71,24 +71,6 @@ const chelle = {
 
 ---
 
-<!-- github stats -->
-
-### 📊 github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=matchellatte&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f5&title_color=e75480&icon_color=e8a0bf&text_color=5c3d4a&ring_color=e8a0bf&include_all_commits=true&count_private=true" height="165" alt="github stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matchellatte&layout=compact&hide_border=true&bg_color=fff0f5&title_color=e75480&text_color=5c3d4a&langs_count=8" height="165" alt="top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matchellatte&hide_border=true&background=fff0f5&stroke=e8a0bf&ring=e75480&fire=e75480&currStreakNum=5c3d4a&sideNums=5c3d4a&currStreakLabel=e75480&sideLabels=e75480&dates=b07a8a" alt="github streak" />
-
-</div>
-
----
-
 <!-- trophies -->
 
 ### 🏆 github trophies
@@ -99,21 +81,6 @@ const chelle = {
 
 ---
 
-<!-- contribution snake -->
-
-### 🐍 watch my contributions get eaten
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matchellatte/matchellatte/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matchellatte/matchellatte/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/matchellatte/matchellatte/output/github-snake-dark.svg" />
-</picture>
-</div>
-
-> 💡 _To enable the snake, add the [GitHub Actions workflow](https://github.com/Platane/snk) to your profile repo._
-
----
 
 <!-- spotify -->
 

@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/assets/profile-cover.gif" width="100%" alt="cozy coder vibes" />
+  <img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/assets/profile-header-3.gif" width="100%" alt="cozy coder vibes" />
 </p>
 
 ---
 
 <!-- about me -->
-
-<img align="right" src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/cover.gif" width="200" alt="cozy coder vibes" />
 
 ### 🌸 about me
 
@@ -16,7 +14,7 @@ const chelle = {
   name:      "Greyshel",
   pronouns:  "she/her",
   location:  "🇵🇭 Philippines",
-  fuel:      "matcha lattes ☕🌿",
+  fuel:      "matcha lattes",
   currently: "building cool things & sipping green magic",
   ask_me:    ["fullstack dev", "UI/UX", "why matcha > coffee"],
   fun_fact:  "my username is literally my personality 🍵",
@@ -32,7 +30,7 @@ const chelle = {
 ### 🛠️ tech stack
 
 <details open>
-<summary><b>🖌️ Frontend</b></summary>
+<summary><b> Frontend</b></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,nextjs,vite,tailwind&theme=light&perline=9" alt="frontend skills" />
@@ -57,28 +55,6 @@ const chelle = {
 
 ---
 
-<!-- trophies -->
-
-### 🏆 github trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=matchellatte&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=8" alt="trophies" />
-</div>
-
----
-
-
-<!-- spotify -->
-
-### 🎵 currently vibing to
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=fff0f5&border_color=e8a0bf)](https://open.spotify.com/user/matchellatte)
-
-</div>
-
----
 
 <!-- connect -->
 
@@ -86,10 +62,6 @@ const chelle = {
 
 <div align="center">
 
-<a href="https://dev.to/matchellatte" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-fff0f5?style=for-the-badge&logo=dev.to&logoColor=e75480" height="34" alt="dev.to" />
-</a>
-&nbsp;
 <a href="https://instagram.com/grayscaele" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fff0f5?style=for-the-badge&logo=instagram&logoColor=e75480" height="34" alt="instagram" />
 </a>

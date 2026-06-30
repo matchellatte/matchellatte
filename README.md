@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/cover.gif" width="100%" alt="cozy coder vibes" />
+<img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/assets/cover.gif" width="100%" alt="cozy coder vibes" />
 
 <br/>
 

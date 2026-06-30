@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/assets/cover.gif" width="100%" alt="cozy coder vibes" />
+  <img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/assets/profile-cover.gif" width="100%" alt="cozy coder vibes" />
 </p>
 
 ---

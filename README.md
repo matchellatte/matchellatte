@@ -1,8 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/assets/cover.gif" width="100%" alt="cozy coder vibes" />
+</p>
 
-<img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/assets/cover.gif" width="100%" alt="cozy coder vibes" />
-
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=26&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=hi+there!+i'm+chelle+🌸;fullstack+dev+%26+matcha+girlie+🍵;welcome+to+my+cozy+corner+✨)](https://git.io/typing-svg)
 

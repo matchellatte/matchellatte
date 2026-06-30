@@ -1,20 +1,6 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/cover.gif" width="100%" alt="cozy coder vibes" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=26&pause=1000&color=E75480&center=true&vCenter=true&width=600&lines=hi+there!+i'm+chelle+🌸;fullstack+dev+%26+matcha+girlie+🍵;welcome+to+my+cozy+corner+✨)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=matchellatte&style=flat-square&color=e8a0bf&label=visitors" alt="profile views" />
-&nbsp;
-<a href="https://github.com/matchellatte?tab=followers">
-  <img src="https://img.shields.io/github/followers/matchellatte?style=flat-square&color=e8a0bf&labelColor=fff0f5&label=followers" alt="followers" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matchellatte/matchellatte/main/assets/cover.gif" width="100%" alt="cozy coder vibes" />
+</p>
 
 ---
 
